@@ -70,6 +70,25 @@ Deployed Power BI visuals and presentation files on Brightspace for stakeholder 
 [Link to Power BI Server](https://app.powerbi.com/groups/me/reports/84bd6331-498c-42da-9409-870add279e4a/ReportSection?experience=power-bi)  
 You can request access to view the above working Power BI dashboard.
 
+## View the PDF Export:
+[Calgary Housing Market Analysis (2023).pdf](Calgary%20Housing%20Market%20Analysis%20(2023).pdf)
+
+## Business Questions
+1. What is the average price per square foot for homes in different communities, and how does it vary across sectors? And how does the community type (Industrial and Residential) influence the price of homes for sale?
+   ## Top 10 across all sectors
+![image](Calgary%20Housing%20Market%20Analysis%20(2023)_7.jpg)
+   ## Bottom 10 across all sectors
+![image](Calgary%20Housing%20Market%20Analysis%20(2023)_8.jpg)
+To analyze the average price per square foot for homes across different communities and sectors, I examined the top 10 and bottom 10 listings across all sectors. This comparison allows me to observe variations in pricing based on sectors and community types, including Industrial and Residential.
+
+2. In pursuit of investment opportunities, what type of property would be optimal in terms of maximizing the number of bedrooms? Additionally, in which community is such a property typically located, and what is the associated selling price?
+![image](Calgary%20Housing%20Market%20Analysis%20(2023)_9.jpg)
+For investors seeking opportunities to maximize the number of bedrooms in rental properties, I filtered listings to identify optimal options. By selecting properties with the maximum number of beds and baths, I can pinpoint suitable investments for rental purposes.
+
+3. For a single individual or a student with the financial means to purchase a property featuring one bedroom and one bathroom, what would be the anticipated cost of such a unit?
+![image](Calgary%20Housing%20Market%20Analysis%20(2023)_10.jpg)
+Individuals or students looking to purchase properties with one bedroom and one bathroom can find suitable options by filtering listings based on these criteria. This approach enables me to identify affordable units tailored to my specific needs.
+
 ## Conclusion
 
 The comprehensive analysis provides valuable insights into the Canadian housing market in 2023, covering housing price trends, regional variations, and the impact of community types on property values.
