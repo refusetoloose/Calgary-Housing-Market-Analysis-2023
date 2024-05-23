@@ -66,9 +66,9 @@ Before deployment, conducted a thorough review of the entire process, including 
 
 ## Deployment
 
-Deployed Power BI visuals and presentation files on Brightspace for stakeholder access and analysis. 
-[Link to Power BI Server](https://app.powerbi.com/groups/me/reports/84bd6331-498c-42da-9409-870add279e4a/ReportSection?experience=power-bi)
-You can request access to view the above working power bi dashboard
+Deployed Power BI visuals and presentation files on Brightspace for stakeholder access and analysis.  
+[Link to Power BI Server](https://app.powerbi.com/groups/me/reports/84bd6331-498c-42da-9409-870add279e4a/ReportSection?experience=power-bi)  
+You can request access to view the above working Power BI dashboard.
 
 ## Conclusion
 
