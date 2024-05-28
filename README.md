@@ -100,3 +100,9 @@ The comprehensive analysis provides valuable insights into the Canadian housing 
 3. Continuous Monitoring and Adaptation: Regular monitoring of market indicators and updating analytical models will ensure relevance and accuracy in decision support as the real estate market is dynamic.
 4. Investment in Data Analytics: Investing in advanced analytics tools and expertise can provide a competitive edge. Leveraging predictive modeling and machine learning algorithms can enhance forecasting capabilities and risk assessment.
 5. Improvement to Dataset: Enhance datasets by incorporating additional data sources with proper postal code information. This enriched dataset will enable more accurate predictions and insights into the real estate market across different cities or countries, facilitating more informed decision-making for stakeholders. Collaborating with local authorities and data providers can ensure data accuracy and completeness.
+
+## Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
